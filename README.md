@@ -46,7 +46,7 @@ To use this project, clone it:
 And then build it:
 
 ```
-cd JavaChallenge
+cd Challenge
 mvn clean install 
 ```
 
